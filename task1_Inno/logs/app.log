@@ -1,0 +1,22 @@
+2026-04-15 12:48:32 [main] WARN  org.example.parsers.impl.DataVectorParserImpl - Строка 5: пропущено неверное значение 'invalid'
+2026-04-15 12:48:32 [main] WARN  org.example.parsers.impl.DataVectorParserImpl - Строка 10: пропущено неверное значение '55.5'
+2026-04-15 12:48:32 [main] INFO  org.example.parsers.impl.DataVectorParserImpl - Загружено 9 чисел из D:\task1_inno\task_1\Task_1\src\main\resources\numsForArray.txt
+2026-04-15 12:48:32 [main] INFO  org.example.Main - Исходный вектор: [15, 3, -7, 42, 0, 100, -23, 8, 12]
+2026-04-15 12:48:32 [main] INFO  org.example.Main - Максимальный элемент: 100
+2026-04-15 12:48:32 [main] INFO  org.example.Main - Сумма элементов: 150
+2026-04-15 12:48:32 [main] INFO  org.example.Main - Отсортированный вектор: [-23, -7, 0, 3, 8, 12, 15, 42, 100]
+2026-04-15 12:49:01 [main] WARN  org.example.parsers.impl.DataVectorParserImpl - Строка 5: пропущено неверное значение 'invalid'
+2026-04-15 12:49:01 [main] WARN  org.example.parsers.impl.DataVectorParserImpl - Строка 10: пропущено неверное значение '55.5'
+2026-04-15 12:49:01 [main] INFO  org.example.parsers.impl.DataVectorParserImpl - Загружено 9 чисел из D:\task1_inno\task_1\Task_1\src\main\resources\numsForArray.txt
+2026-04-15 12:49:01 [main] INFO  org.example.Main - Исходный вектор: [15, 3, -7, 42, 0, 100, -23, 8, 12]
+2026-04-15 12:49:01 [main] INFO  org.example.Main - Максимальный элемент: 100
+2026-04-15 12:49:01 [main] INFO  org.example.Main - Сумма элементов: 150
+2026-04-15 12:49:01 [main] INFO  org.example.Main - Отсортированный вектор: [-23, -7, 0, 3, 8, 12, 15, 42, 100]
+2026-04-15 12:59:14 [main] ERROR org.example.Main - Ошибка при чтении файла 'D:\task1_inno\task_1\Task_1\src\main\resources\numsForArray.txt': D:\task1_inno\task_1\Task_1\src\main\resources\numsForArray.txt (Системе не удается найти указанный путь)
+2026-04-15 12:59:50 [main] WARN  org.example.parsers.impl.DataVectorParserImpl - Строка 5: пропущено неверное значение 'invalid'
+2026-04-15 12:59:50 [main] WARN  org.example.parsers.impl.DataVectorParserImpl - Строка 10: пропущено неверное значение '55.5'
+2026-04-15 12:59:50 [main] INFO  org.example.parsers.impl.DataVectorParserImpl - Загружено 9 чисел из D:\task1_inno\task1_Inno\src\main\resources\numsForArray.txt
+2026-04-15 12:59:50 [main] INFO  org.example.Main - Исходный вектор: [15, 3, -7, 42, 0, 100, -23, 8, 12]
+2026-04-15 12:59:50 [main] INFO  org.example.Main - Максимальный элемент: 100
+2026-04-15 12:59:50 [main] INFO  org.example.Main - Сумма элементов: 150
+2026-04-15 12:59:50 [main] INFO  org.example.Main - Отсортированный вектор: [-23, -7, 0, 3, 8, 12, 15, 42, 100]
